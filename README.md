@@ -7,9 +7,8 @@ Software & Machine Learning Engineer focused on **Multimodal AI, Computer Vision
 
 ### 🛠 Tech Stack
 
-- **Languages & Frameworks:** Python, FastAPI, PyTorch, scikit-learn, R
+- **Languages & Frameworks:** Python, FastAPI, PyTorch, scikit-learn
 - **Multimodal & Vision:** Vision-Language Models (BiomedCLIP), OpenCV, Vector Search (ChromaDB)
-- **Spatial Analysis:** QGIS, SRTM DEM Raster Processing, Network Shortest-Path Routing
 - **Engineering & Systems:** Docker, pytest, Git, REST APIs, Linux
 
 ---
